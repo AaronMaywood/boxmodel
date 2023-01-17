@@ -34,9 +34,6 @@ header {
 .article-list {
 	padding-top: 48px;
 	border: 2px solid black;
-}
-
-.article-list h2 {
 	text-align: center;
 }
 
@@ -44,6 +41,7 @@ header {
 	margin: 48px;
 	padding: 48px;
 	height: 300px;
+	text-align: left;
 }
 
 .article1 {
